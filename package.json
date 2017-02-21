@@ -1,0 +1,16 @@
+{
+  "name" : "ModulusDemoApp",
+  "version" : "0.0.1",
+  "scripts": {
+    "start": "node s1.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies" : {
+    "request" : "*",
+    "cheerio": "*",
+    "ws":"0.4.31"
+  },
+  "main":"s1.js"
+}
